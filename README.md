@@ -1,2 +1,2 @@
 # Machine_Learning_Algorithms
-Machine Learning algorithm in python
+Implementation of Machine Learning Algorithms in python
